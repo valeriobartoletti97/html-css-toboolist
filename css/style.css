@@ -20,7 +20,7 @@ header{
 }
 
 main{
-    background-color: #35323250;
+    background-color: #cac9c950;
     padding-top: 20px;
 }
 
@@ -43,13 +43,13 @@ main{
 }
 
 .button.white{
-    color: #35323250;
-    border: 1px solid #35323250;
+    color: #46464650;
+    border: 1px solid #46464650;
     background-color: white;
 }
 
 .buttons{
-    border-bottom: 1px solid #35323250;
+    border-bottom: 1px solid #cac9c950;
     padding-top: 20px;
     padding-bottom: 10px;
 }
@@ -63,6 +63,59 @@ section{
     padding-bottom: 30px;
 }
 
-.bottom-arrow{
-    vertical-align: -8px;
+.symbols{
+    vertical-align: -5px;
+    padding-right: 5px;
+}
+
+ul{
+    list-style: none;
+    padding-top: 10px;
+}
+
+li{
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 20px;
+}
+
+.red{
+    color: red;
+}
+
+.green{
+    color:green;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.tag{
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    font-size: small;
+}
+
+.blue{
+    background-color: #41aaf0;
+}
+
+.orange{
+    background-color: orange;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.bg-lightgreen{
+    background-color: lightgreen;
 }
