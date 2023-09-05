@@ -20,16 +20,15 @@ header{
 }
 
 main{
-    background-color: #0505055e;
+    background-color: #35323250;
+    padding-top: 20px;
 }
 
 .container{
     background-color: white;
-    margin-top: 100px;
-}
-
-section{
-    margin-left: 40px;
+    width: 66%;
+    margin: 20px auto;
+    border-radius: 3px;
 }
 
 .button{
@@ -44,7 +43,14 @@ section{
 }
 
 .button.white{
-    color: #0505055e;
-    border: 1px solid #0505055e;
+    color: #35323250;
+    border: 1px solid #35323250;
     background-color: white;
+}
+
+.buttons{
+    border-bottom: 1px solid #35323250;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 10px;
 }
