@@ -51,6 +51,18 @@ main{
 .buttons{
     border-bottom: 1px solid #35323250;
     padding-top: 20px;
-    padding-left: 50px;
     padding-bottom: 10px;
+}
+
+section{
+    padding-left: 50px;
+}
+
+.task{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.bottom-arrow{
+    vertical-align: -8px;
 }
