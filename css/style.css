@@ -2,4 +2,19 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.logo{
+    vertical-align: bottom;
+    width: 60px;
+}
+
+h1{
+    display: inline-block;
+    font-size: 50px;
+}
+
+header{
+    margin: 30px;
 }
